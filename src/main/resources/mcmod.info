@@ -1,0 +1,16 @@
+[
+    {
+        "modid": "makestuffuseful",
+        "name": "MakeStuffUseful",
+        "description": "ggr",
+        "version": "${version}",
+        "mcversion": "${mcversion}",
+        "url": "",
+        "updateUrl": "",
+        "authorList": ["02Miki"],
+        "credits": "",
+        "logoFile": "",
+        "screenshots": [],
+        "dependencies": []
+    }
+]
