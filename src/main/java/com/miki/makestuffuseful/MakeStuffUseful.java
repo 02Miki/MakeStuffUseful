@@ -1,4 +1,4 @@
-package com.miki.morepcs;
+package com.miki.makestuffuseful;
 
 import com.google.inject.Inject;
 import com.pixelmonmod.pixelmon.Pixelmon;
