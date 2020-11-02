@@ -42,8 +42,6 @@ repositories {
 
 dependencies {
     compile 'org.spongepowered:spongeapi:7.1.0-SNAPSHOT'
-    compile ("me.lucko.luckperms:luckperms-api:4.2")
- //   compile fileTree(dir: 'libs', include: '*.jar')
 }
 
 compileJava.options.encoding = 'UTF-8'
